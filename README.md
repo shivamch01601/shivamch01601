@@ -65,8 +65,8 @@
 
 ## 📈 GitHub Stats
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamch01601&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamch01601&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
