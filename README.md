@@ -209,20 +209,7 @@ Multi-step reasoning support assistant orchestrated with **LangGraph** — tool 
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamch01601&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamch01601&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamch01601&theme=tokyo-night&hide_border=true&radius=10" width="98%"/>
-
-<br/>
-
-<img src="https://ghchart.rshah.org/2C5364/shivamch01601" alt="GitHub contribution graph" width="98%"/>
-
-</div>
-
-<br/>
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamch01601&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamch01601&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" /> <img src="https://streak-stats.demolab.com/?user=shivamch01601&theme=tokyonight&hide_border=true&border_radius=10" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamch01601&theme=tokyo-night&hide_border=true&radius=10" width="98%"/> </div> <br/>
 
 ## 🎓 Education & Certifications
 
