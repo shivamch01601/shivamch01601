@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Shivam%20Chaudhary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20NLP%20%26%20Generative%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=160&section=header" width="100%"/>
+
+<h1>Shivam Chaudhary</h1>
+<h3>Data Scientist | ML Engineer | NLP & Generative AI Specialist</h3>
 
 <a href="https://www.linkedin.com/in/shivamchaudharyai">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -212,7 +215,7 @@ Multi-step reasoning support assistant orchestrated with **LangGraph** — tool 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamch01601&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamch01601&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamch01601&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=shivamch01601&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamch01601&theme=tokyo-night&hide_border=true&radius=10" width="98%"/>
 
