@@ -214,7 +214,7 @@ Multi-step reasoning support assistant orchestrated with **LangGraph** — tool 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamch01601&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamch01601&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivamch01601&theme=tokyonight&no-frame=true&row=1&column=6" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamch01601&theme=tokyo-night&hide_border=true&radius=10" width="98%"/>
 
 <br/>
 
