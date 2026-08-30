@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=160&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=90&section=header" width="100%"/>
 <h1>Shivam Chaudhary</h1>
 <h3>Data Scientist | ML Engineer | NLP & Generative AI Specialist</h3>
 
@@ -25,7 +24,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Building+production-grade+AI+systems+at+scale;Real-Time+Fraud+Detection+%7C+PR-AUC+0.84+%7C+%2414.2M+saved;Forecasting+%2B+NLP+%2B+Retrieval-Augmented+Generation;Turning+messy+data+into+decisions+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=850&height=40&lines=Building+production-grade+AI+systems+at+scale;Real-Time+Fraud+Detection+%E2%80%94+%2414.2M+saved;Forecasting+%2B+NLP+%2B+Retrieval-Augmented+Generation;Turning+messy+data+into+decisions+that+matter" alt="Typing SVG" />
 </a>
 
 </div>
@@ -215,9 +214,11 @@ Multi-step reasoning support assistant orchestrated with **LangGraph** — tool 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamch01601&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamch01601&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img src="https://streak-stats.demolab.com/?user=shivamch01601&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=shivamch01601&theme=tokyonight&no-frame=true&row=1&column=6" width="98%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamch01601&theme=tokyo-night&hide_border=true&radius=10" width="98%"/>
+<br/>
+
+<img src="https://ghchart.rshah.org/2C5364/shivamch01601" alt="GitHub contribution graph" width="98%"/>
 
 </div>
 
